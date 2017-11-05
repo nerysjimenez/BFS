@@ -6,10 +6,10 @@ import graph.Vertex;
 import java.util.*;
 
 /**
+ *  Nerys Jimenez 
  *  The College of Saint Rose
- *  Algorithms, Spring2017
+ *  Algorithms, Spring 2017
  *  Implementation of Breadth First Search
- * @author Nerys Jimenez
  */
 public class BFS {
     
